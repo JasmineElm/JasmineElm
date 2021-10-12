@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![wakatime](https://wakatime.com/badge/user/36bf122f-6a28-4b99-a221-4ae75be36620.svg)](https://wakatime.com/@36bf122f-6a28-4b99-a221-4ae75be36620)
+[![twitter](https://img.shields.io/twitter/follow/Jasmine_elm?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/Jasmine_Elm)
