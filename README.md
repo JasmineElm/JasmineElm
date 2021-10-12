@@ -2,7 +2,7 @@
 
 <!--
 **JasmineElm/JasmineElm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![wakatime](https://wakatime.com/badge/user/36bf122f-6a28-4b99-a221-4ae75be36620.svg)](https://wakatime.com/@36bf122f-6a28-4b99-a221-4ae75be36620)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![wakatime](https://wakatime.com/badge/user/36bf122f-6a28-4b99-a221-4ae75be36620.svg)](https://wakatime.com/@36bf122f-6a28-4b99-a221-4ae75be36620)
