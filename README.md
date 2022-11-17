@@ -16,8 +16,3 @@ Here are some ideas to get you started:
 -->
 
 [![wakatime](https://wakatime.com/badge/user/36bf122f-6a28-4b99-a221-4ae75be36620.svg)](https://wakatime.com/@36bf122f-6a28-4b99-a221-4ae75be36620)
-
-<a rel="me"  href="https://home.social/@JamesLemin">
-  <img src="https://user-images.githubusercontent.com/6927127/202556148-6dc6533e-1434-44fc-8861-df47a51eb486.png">
-</a> 
-
