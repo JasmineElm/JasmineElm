@@ -15,8 +15,9 @@ There's plenty to choose form, but the following are my favourites:
 The following projects
 + [lsys](https://github.com/JasmineElm/lsys): Python application for generating patterns using L-System algorithms.
 + [plotting](https://github.com/JasmineElm/plotting-library): Python appplication generating interesting patterns
-+ [Scv-cleaner](https://github.com/JasmineElm/Scv-cleaner): Optimise svgs in preparation for plotting.  Creates a nix environment with `vpype` and `svgo` installed.
++ [svg-cleaner](https://github.com/JasmineElm/svg-cleaner): Optimise svgs in preparation for plotting.  Creates a nix environment with `vpype` and `svgo` installed.
 + [truchet](https://github.com/JasmineElm/truchet): Simple implementations of Truchet tiling algorithms.
++ [kaleidoscope](https://github.com/JasmineElm/kaleidoscope): kaleidoscopic svg generation
 
 #### Others
 
