@@ -1,18 +1,23 @@
 ### Hi there 👋
 
-<!--
-**JasmineElm/JasmineElm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 [![wakatime](https://wakatime.com/badge/user/36bf122f-6a28-4b99-a221-4ae75be36620.svg)](https://wakatime.com/@36bf122f-6a28-4b99-a221-4ae75be36620)
+
+### My Repositories
+
+There's plenty to choose form, but the following are my favourites:
+
+#### Music
+
+[AudioFudge](https://github.com/JasmineElm/AudioFudge): Offline Audio editor emulating features from Tom Erbe's SoundHack and others.
+
+#### Pen-Plotting
+The following projects
++ [lsys](https://github.com/JasmineElm/lsys): Python application for generating patterns using L-System algorithms.
++ [plotting](https://github.com/JasmineElm/plotting-library): Python appplication generating interesting patterns
++ [Scv-cleaner](https://github.com/JasmineElm/Scv-cleaner): Optimise svgs in preparation for plotting.  Creates a nix environment with `vpype` and `svgo` installed.
++ [truchet](https://github.com/JasmineElm/truchet): Simple implementations of Truchet tiling algorithms.
+
+#### Others
+
++ [Reports](https://github.com/JasmineElm/reports): Nix environment intended to render markdown files into academic papers using `pandoc`.
