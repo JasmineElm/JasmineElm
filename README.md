@@ -9,7 +9,8 @@ There's plenty to choose form, but the following are my favourites:
 
 #### Music
 
-[AudioFudge](https://github.com/JasmineElm/AudioFudge): Offline Audio editor emulating features from Tom Erbe's SoundHack and others.
++ [AudioFudge](https://github.com/JasmineElm/AudioFudge): Offline Audio editor emulating features from Tom Erbe's SoundHack and others.
++ [DXPatchGen](https://github.com/JasmineElm/DXPatchGen): Patch/Bank Generation/mutation for the DX7 and compatible synths.
 
 #### Pen-Plotting
 The following projects
